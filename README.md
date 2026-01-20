@@ -12,8 +12,14 @@ Claude Code プラグインマーケットプレイス。
 
 ### マーケットプレイスとしてインストール（推奨）
 
-```bash
-claude plugins add https://github.com/qqpann/ccplugins
+GitHubリポジトリから追加：
+```
+/plugin marketplace add qqpann/ccplugins
+```
+
+ローカルディレクトリから追加（開発用）：
+```
+/plugin marketplace add ./ccplugins
 ```
 
 インストール後、利用したいプラグインを選択できます。
