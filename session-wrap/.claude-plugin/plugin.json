@@ -1,0 +1,9 @@
+{
+  "name": "session-wrap",
+  "version": "1.0.0",
+  "description": "Track work across Claude Code sessions with /wrap and /catchup commands",
+  "author": {
+    "name": "shshso"
+  },
+  "keywords": ["session", "workflow", "productivity", "logging"]
+}
