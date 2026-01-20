@@ -1,6 +1,6 @@
 {
   "name": "session-wrap",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Track work across Claude Code sessions with /wrap and /catchup commands",
   "author": {
     "name": "Qiushi Pan"
