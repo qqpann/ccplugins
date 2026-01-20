@@ -1,0 +1,19 @@
+{
+  "name": "ccplugins",
+  "metadata": {
+    "description": "Claude Code plugins for productivity and workflow automation",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Qiushi Pan"
+  },
+  "plugins": [
+    {
+      "name": "session-wrap",
+      "source": "./plugins/session-wrap",
+      "description": "Track work across Claude Code sessions with /wrap and /catchup commands",
+      "version": "1.0.0",
+      "keywords": ["session", "workflow", "productivity", "logging"]
+    }
+  ]
+}
